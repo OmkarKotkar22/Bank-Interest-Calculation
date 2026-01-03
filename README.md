@@ -2,6 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
 ![OOP](https://img.shields.io/badge/Concept-OOP-blue)
+![Status](https://img.shields.io/badge/Feature-Abstraction-pink)
 ![IDE](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
