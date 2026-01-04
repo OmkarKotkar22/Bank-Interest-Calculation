@@ -6,7 +6,6 @@
 ![IDE](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Console-lightgrey)
-![License](https://img.shields.io/badge/License-Educational-yellow)
 
 ---
 
